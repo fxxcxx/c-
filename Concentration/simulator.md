@@ -1,1 +1,0 @@
-![simulator](./desktop/simulator.png)
